@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VLE03_OOP_Extra/1.0.0": {
+        "runtime": {
+          "VLE03_OOP_Extra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VLE03_OOP_Extra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

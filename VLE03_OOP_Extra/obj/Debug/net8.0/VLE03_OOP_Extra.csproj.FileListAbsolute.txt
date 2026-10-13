@@ -1,0 +1,14 @@
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\bin\Debug\net8.0\VLE03_OOP_Extra.exe
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\bin\Debug\net8.0\VLE03_OOP_Extra.deps.json
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\bin\Debug\net8.0\VLE03_OOP_Extra.runtimeconfig.json
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\bin\Debug\net8.0\VLE03_OOP_Extra.dll
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\bin\Debug\net8.0\VLE03_OOP_Extra.pdb
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\VLE03_OOP_Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\VLE03_OOP_Extra.AssemblyInfoInputs.cache
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\VLE03_OOP_Extra.AssemblyInfo.cs
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\VLE03_OOP_Extra.csproj.CoreCompileInputs.cache
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\VLE03_OOP_Extra.dll
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\refint\VLE03_OOP_Extra.dll
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\VLE03_OOP_Extra.pdb
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\VLE03_OOP_Extra.genruntimeconfig.cache
+C:\Users\maret\source\repos\VLE03_OOP_Extra\VLE03_OOP_Extra\obj\Debug\net8.0\ref\VLE03_OOP_Extra.dll
